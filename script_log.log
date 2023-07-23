@@ -1,0 +1,12 @@
+2023-07-24 01:34:51,127 - INFO - WebDriver initialized.
+2023-07-24 01:34:58,823 - INFO - Navigated to the homepage: https://www.flipkart.com/
+2023-07-24 01:34:59,837 - INFO - Entered search query: boat bluet
+2023-07-24 01:35:09,622 - INFO - Selected suggestion: boat+bluetooth+earphone
+2023-07-24 01:35:09,622 - INFO - Fetching search results.
+2023-07-24 01:35:33,851 - INFO - Printing Bestseller Earphones Information:
+2023-07-24 01:35:33,888 - INFO - Model1:{'title': 'boAt Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and up...', 'actual_price': '\u20b93,990', 'discount': '69% off', 'selling_price': '\u20b91,199'}
+2023-07-24 01:35:33,890 - INFO - 
+Printing Trending Earphones Information:
+2023-07-24 01:35:38,832 - INFO - WebDriver closed.
+2023-07-24 01:40:20,834 - INFO - WebDriver initialized.
+2023-07-24 01:40:26,705 - INFO - Navigated to the homepage: https://www.flipkart.com/
